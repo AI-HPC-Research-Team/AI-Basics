@@ -13,7 +13,7 @@
 - Linux / Docker / Conda basics (Markdown guides): [Basic_Coding_Environment_Command_Tutorial.md](./00%20Linux%20basic/Basic_Coding_Environment_Command_Tutorial.md)
 
 ### Python & PyTorch 
-
+- Python & PyTorch basics: [Python_PyTorch_Basics.ipynb](./01%20Python%20basic/Python_PyTorch_Basics.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/01%20Python%20basic/Python_PyTorch_Basics.ipynb)
 ### NN Training & Optimization
 - Optimizers & LR schedules (SGD, Adam, etc.): [Optimizer.ipynb](./02%20NN%20Training%20%26%20Optimization/Optimizer.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/02%20NN%20Training%20%26%20Optimization/Optimizer.ipynb)
 
@@ -30,7 +30,7 @@
 
 ### Transformers & NLP
 - BERT Fine-tuning (Sentence Classification): [BERT_Fine_Tuning_Sentence_Classification.ipynb](./06%20Transformer/BERT_Fine_Tuning_Sentence_Classification.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/06%20Transformer/BERT_Fine_Tuning_Sentence_Classification.ipynb)
-- GPT-2 : [ProtGPT2.ipynb](./06%20Transformer/ProtGPT2.ipynb)• [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/GPT2.ipynb)  
+- GPT-2 : [ProtGPT2.ipynb](./06%20Transformer/ProtGPT2.ipynb)• [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/06%20Transformer/ProtGPT2.ipynb)  
 
 ### Deep Generative Models
 - Diffusion Models (intro): [Diffusion.ipynb](./07%20Deep%20Generative%20Models/Diffusion.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/07%20Deep%20Generative%20Models/Diffusion.ipynb)
