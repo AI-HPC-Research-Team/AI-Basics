@@ -10,23 +10,20 @@
 ## Table of Contents
 
 ### Environment & Setup
-- Linux / Docker / Conda basics (Markdown guides): [Basic_Coding_Environment_Command_Tutorial.md](./Basic_Coding_Environment_Command_Tutorial.md) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/Basic_Coding_Environment_Command_Tutorial.md)
+- Linux / Docker / Conda basics (Markdown guides): [Basic_Coding_Environment_Command_Tutorial.md](./00 Linux basic/Basic_Coding_Environment_Command_Tutorial.md)
 
-### Python & PyTorch
-- CNN building blocks (PyTorch): [2_1_Building_a_CNN_filled.ipynb](./2_1_Building_a_CNN_filled.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/2_1_Building_a_CNN_filled.ipynb)
-- Optimizers & LR schedules (Adam, OneCycle, etc.): [Optimizer.ipynb](./Optimizer.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/Optimizer.ipynb)
+### Python & PyTorch 
 
 ### NN Training & Optimization
-- Training pipeline patterns & evaluation: _AI4SCI_Merged_Teaching_Notebook_annotated.ipynb_ • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/AI4SCI_Merged_Teaching_Notebook_annotated.ipynb)  
-  _(Add `AI4SCI_Merged_Teaching_Notebook_annotated.ipynb` to the repo to enable the GitHub link.)_
+- Optimizers & LR schedules (SGD, Adam, etc.): [Optimizer.ipynb](./02%20NN%20Training%20%26%20Optimization/Optimizer.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/02%20NN%20Training%20%26%20Optimization/Optimizer.ipynb)
 
 ### Supervised Learning
-- Linear Regression from scratch: [01_Supervised_learning_Linear_regression_from_scratch.ipynb](./01_Supervised_learning_Linear_regression_from_scratch.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/01_Supervised_learning_Linear_regression_from_scratch.ipynb)
-- Logistic Regression from scratch: [“logistic_regression_from_scratch_ipynb”.ipynb](./“logistic_regression_from_scratch_ipynb”.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/“logistic_regression_from_scratch_ipynb”.ipynb)
+- Linear Regression from scratch: [01_Supervised_learning_Linear_regression_from_scratch.ipynb](./03%20Supervised%20Learning/linear_regression_from_scratch.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/03%20Supervised%20Learning/linear_regression_from_scratch.ipynb)
+- Logistic Regression from scratch: [logistic_regression_from_scratch_ipynb.ipynb](./03%20Supervised%20Learning/logistic_regression_from_scratch.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/03%20Supervised%20Learning/logistic_regression_from_scratch.ipynb)
 
 ### Unsupervised Learning
-- k-means clustering: [kmeans.ipynb](./kmeans.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/kmeans.ipynb)
-- Principal Component Analysis (PCA): [pca.ipynb](./pca.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/pca.ipynb)
+- k-means clustering: [kmeans.ipynb](./04%20Unsupervised%20Learning/kmeans.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/04%20Unsupervised%20Learning/kmeans.ipynb)
+- Principal Component Analysis (PCA): [pca.ipynb](./04%20Unsupervised%20Learning/pca.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/04%20Unsupervised%20Learning/pca.ipynb)
 
 ### Deep Neural Networks (DNN)
 - Convolutional Neural Networks (CNN): [2_1_Building_a_CNN_filled.ipynb](./2_1_Building_a_CNN_filled.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/2_1_Building_a_CNN_filled.ipynb)
