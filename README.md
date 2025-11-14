@@ -11,7 +11,7 @@
 
 ### Environment & Setup
 - Linux / Docker / Conda basics (Markdown guides): [Basic_Coding_Environment_Command_Tutorial.md](./Basic_Coding_Environment_Command_Tutorial.md) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/Basic_Coding_Environment_Command_Tutorial.md)
-- Docker & Conda beginner tutorials (Markdown): _Docker_Conda_Beginner_Tutorials.md_ • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/Docker_Conda_Beginner_Tutorials.md)  
+- Docker & Conda beginner tutorials (Markdown): _Docker_Conda_Beginner_Tutorials.md_ 
   _(Add `Docker_Conda_Beginner_Tutorials.md` to the repo to enable the GitHub link.)_
 
 ### Python & PyTorch
