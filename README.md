@@ -10,7 +10,7 @@
 ## Table of Contents
 
 ### Environment & Setup
-- Linux / Docker / Conda basics (Markdown guides): [Basic_Coding_Environment_Command_Tutorial.md](./00 Linux basic/Basic_Coding_Environment_Command_Tutorial.md)
+- Linux / Docker / Conda basics (Markdown guides): [Basic_Coding_Environment_Command_Tutorial.md](./00%20Linux%20basic/Basic_Coding_Environment_Command_Tutorial.md)
 
 ### Python & PyTorch 
 
@@ -26,32 +26,24 @@
 - Principal Component Analysis (PCA): [pca.ipynb](./04%20Unsupervised%20Learning/pca.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/04%20Unsupervised%20Learning/pca.ipynb)
 
 ### Deep Neural Networks (DNN)
-- Convolutional Neural Networks (CNN): [2_1_Building_a_CNN_filled.ipynb](./2_1_Building_a_CNN_filled.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/2_1_Building_a_CNN_filled.ipynb)
+- Convolutional Neural Networks (CNN): [Building_a_CNN.ipynb](./05%20DNN/Building_a_CNN.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/05%20DNN/Building_a_CNN.ipynb)
 
 ### Transformers & NLP
-- BERT Fine-tuning (Sentence Classification): [BERT_Fine_Tuning_Sentence_Classification.ipynb](./BERT_Fine_Tuning_Sentence_Classification.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/BERT_Fine_Tuning_Sentence_Classification.ipynb)
-- GPT-2 (placeholder): _GPT2.ipynb_ • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/GPT2.ipynb)  
-  _(Add `GPT2.ipynb` to the repo to enable the GitHub link.)_
+- BERT Fine-tuning (Sentence Classification): [BERT_Fine_Tuning_Sentence_Classification.ipynb](./06%20Transformer/BERT_Fine_Tuning_Sentence_Classification.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/06%20Transformer/BERT_Fine_Tuning_Sentence_Classification.ipynb)
+- GPT-2 : [ProtGPT2.ipynb](./06%20Transformer/ProtGPT2.ipynb)• [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/GPT2.ipynb)  
 
 ### Deep Generative Models
-- Diffusion Models (intro): [Diffusion.ipynb](./Diffusion.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/Diffusion.ipynb)
+- Diffusion Models (intro): [Diffusion.ipynb](./07%20Deep%20Generative%20Models/Diffusion.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/07%20Deep%20Generative%20Models/Diffusion.ipynb)
 
 ### Reinforcement Learning
-- Q-Learning (tabular / basics): [reinforcement_q_learning.ipynb](./reinforcement_q_learning.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/reinforcement_q_learning.ipynb)
+- Q-Learning (tabular / basics): [DQN.ipynb](./08%20Deep%20Reinforcement%20Learning/DQN.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/08%20Deep%20Reinforcement%20Learning/DQN.ipynb)
 
 ### LLM & Agents
-- SFT with (Q)LoRA / TRL: [sft_trl_lora_qlora.ipynb](./sft_trl_lora_qlora.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/sft_trl_lora_qlora.ipynb)
-- LangChain Agents (tools & reasoning): [06_langchain_agents.ipynb](./06_langchain_agents.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/06_langchain_agents.ipynb)
+- SFT with (Q)LoRA / TRL: [sft_trl_lora_qlora.ipynb](./09%20LLM%20%26%20Agent/sft_trl_lora_qlora.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/09%20LLM%20%26%20Agent/sft_trl_lora_qlora.ipynb)
+- LangChain Agents (tools & reasoning): [langchain_agents.ipynb](./09%20LLM%20%26%20Agent/langchain_agents.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/09%20LLM%20%26%20Agent/langchain_agents.ipynb)
 
 ### Visualization
-- Visualization Demos: [vis_ipynb.ipynb](./vis_ipynb.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/vis_ipynb.ipynb)
-
-### Domain Examples (Optional)
-- Proteins: [protein.ipynb](./protein.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/protein.ipynb)
-- Molecules: [molecules.ipynb](./molecules.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/molecules.ipynb)
-- Assignment: [assignment.ipynb](./assignment.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/assignment.ipynb)
-- Protein design (copy): [“prot_design_ipynb”的副本.ipynb](./“prot_design_ipynb”的副本.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/“prot_design_ipynb”的副本.ipynb)
-
+- Visualization Demos: [visualization.ipynb](./10%20Visualization/visualization.ipynb) • [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-HPC-Research-Team/AI-Basics/blob/main/10%20Visualization/visualization.ipynb)
 
 
 ## References & Credits
